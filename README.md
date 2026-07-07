@@ -1,4 +1,7 @@
 # Indian Mangrove Health Analysis
+<p align="center">
+<img src="images/Cover_page.png" width="700">
+</p>
 
 <p align="center">
 
@@ -40,6 +43,9 @@ This repository primarily contains the implementation for **Objective 3 and 4**,
 # Study Area
 
 The study covers **12 coastal administrative regions of India** containing mangrove ecosystems.
+<p align="center">
+<img src="images/study_area.png" width="700">
+</p>
 
 ### States
 
