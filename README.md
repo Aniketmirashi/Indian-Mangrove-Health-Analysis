@@ -44,7 +44,7 @@ This repository primarily contains the implementation for **Objective 3 and 4**,
 
 The study covers **12 coastal administrative regions of India** containing mangrove ecosystems.
 <p align="center">
-<img src="images/study_area.png" width="700">
+<img src="images/Study_area.png" width="700">
 </p>
 
 ### States
